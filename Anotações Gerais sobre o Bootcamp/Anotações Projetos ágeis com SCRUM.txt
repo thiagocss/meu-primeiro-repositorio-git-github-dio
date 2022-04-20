@@ -1,0 +1,150 @@
+Anotações
+
+SCRUM
+É um dos frameworks de gerenciamento de projetos
+ágeis.
+
+***Desafios do Desenvolvimento de Software
+Objetivos de Neg.=>Proc. Desenvolvimento=>Sofware
+
+***Apenas 20% do Software é realmente utilizada pelo
+usuário(estudo feito).
+
+***Gestão de Projetos Tradicional X Ágil
+
+	Tradicional:
+	- Projeto avança somente quando uma fase está
+	inteiramente completa(Waterfall).
+	- Demanda muito tempo.
+	- O escopo é definido na fase inicial.
+	- Cliente só vÊ o software no final do projeto.
+	- Resistencia a mudanças.
+
+	Ágil:
+	- Software contruido por partes(incremental)
+	e cada parte é executada em um ciclo.
+	- Escopo definido ao longo do projeto.
+	- CLiente vê ao longo do projeto.
+	- Mudanças contantes de acordo com os feedbacks.
+
+Resumo: em Projetos Tradicionais corre-se o risco de
+	descobrir que está errado somente no final. Já
+	no Ágil descobre-se em menos de 1 mês.
+
+===================================
+
+ÁGIL := RÁPIDO
+
+Caracteristicas do "ser Ágil"
+	-> Rapidez e desembaraço;
+	-> Fazer coisas complexas de forma simples;
+	-> Equipe comprometida com os objetivos;
+	-> Maior valor para o cliente;
+
+===================================
+
+PILARES DO SCRUM
+
+	-> TransparÊncia: - Conversar mais e escrever
+				menos;
+				- Demonstrar constatemente o
+				o software ao user e obter
+				feedbacks;
+
+	-> Adaptação: 	- Requisitos mudam ao longo
+				do tempo;
+				
+	-> Inspeção:	- Aprender progressivamente
+				com o uso do software 
+
+=================================
+
+RAZÕES PARA ADOTAR O SCRUM:
+
+	-> Desenvolvimento e entrega em partes menores;
+	-> Redução de Incertezas;
+	-> Comprometimento, motivação e transparência
+	da equipe(Daily Meeting);
+	-> Maior valor do Negócio;
+	-> Usuários envolvidos fulltime;
+	-> Aplicações de Lições aprendidas;
+
+=================================
+
+CARACTERÍSTICAS DO TIME SCRUM:
+
+	-> Equipes auto organizáveis;
+	-> Tarefas são do time e todos são responsáveis;
+	-> Forte comprometimento com os resultados e
+	não com o projjeto em sí;
+
+=================================
+
+PAPÉIS E RESPONSABILIDADES NO TIME:
+
+-> Product Owner(PO): - Representante do negócio;
+			    - PO não é um comitê;
+			    - Define a funcionalidade do
+			software(Backlog);
+			    - Prioriza as funcionalidades
+			de acordo com o valor do negócio;
+			    - Garante que o time DEV 
+			entenda os itens do backlog;
+
+-> Scrum Master(SM): - Garante o uso correto do SCRUM;
+			   - Não é Gerente de Projeto;
+			   - Age como facilitador;
+			   - Auxilia o PO no planejamento
+			do backlog;
+			   - Auxilia a equipe a remover
+			impedimentos;
+			   - Treina o time em auto gestão
+			e interdiciplinaridade;
+
+-> Time de Desenvolvimento(DEV):
+			   - Possui habilidades suficientes
+			para desenvolver, testar, criar e 
+			desenhar, ou seja, tudo que for
+			necessário para entregar o software
+			funcionando;
+					
+=======================================
+
+TIME BOX é o tempo maximmo para fazer uam cerimônia
+ou Sprint.
+Sprint é o principal evento do SCRUM. Duração 30 dias
+ou menos.
+É composta de: - Planejamento da Sprint;
+			* Participa o PO, Time Dev e o SM,
+		num timebox de 30 dias a reunião é de 8h
+		sendo que 4h o PO define o que fazer na
+		sprint. Time DEV tira todas as dúvidas.
+		Demais horas o time DEV quebra as tarefas
+		e define como será a entrega ao PO.
+		   
+		   - Reuniões Diárias(Daily Meeting);
+			* particia o time Dev, PO e SC.
+		Onde o time DEV responde perguntas como:
+		o que fez no dia anterior, o que está
+		programado para o dia e se tem algum
+		impedimento. Reunião de pé as 9h e dura
+		no maximo 15 minutos.
+
+		   - Revisão da Sprint(Review);
+			* ultimo dia da sprint o time DEV
+		apresenta ao PO o trabalho feito. Dura
+		4h. Não dá mais tempo para mexer no soft
+		passa para a proxima sprint.
+
+		   - Retrospectiva da Sprint;
+			* tambem feita no ultimo dia da
+		sprint, o time DEV aponta com
+		transparÊnciaos erros que foram cometidos
+		durante a sprint. Timebox de 3h para
+		sprint de 30 dias.
+
+
+
+
+
+
